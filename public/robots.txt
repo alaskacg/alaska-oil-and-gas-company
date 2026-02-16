@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alaskacg.github.io/alaska-oil-and-gas-company/sitemap.xml
